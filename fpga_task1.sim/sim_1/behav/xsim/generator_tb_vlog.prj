@@ -1,0 +1,15 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../fpga_task1.gen/sources_1/ip/fifo_generator_0/sim/fifo_generator_0.v" \
+"../../../../fpga_task1.gen/sources_1/ip/blk_mem_gen_0/sim/blk_mem_gen_0.v" \
+"../../../../fpga_task1.srcs/sources_1/imports/new/Analyze.v" \
+"../../../../fpga_task1.srcs/sources_1/imports/new/Calc.v" \
+"../../../../fpga_task1.srcs/sources_1/imports/new/Generator.v" \
+"../../../../fpga_task1.srcs/sources_1/imports/new/Top_model.v" \
+"../../../../fpga_task1.srcs/sim_1/imports/new/generator_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

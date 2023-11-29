@@ -1,0 +1,15 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/vladimir/newdisk2/VivadoProjects/fpga_task1/fpga_task1.gen/sources_1/ip/fifo_generator_0/sim/fifo_generator_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module fifo_generator_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/vladimir/newdisk2/VivadoProjects/fpga_task1/fpga_task1.gen/sources_1/ip/blk_mem_gen_0/sim/blk_mem_gen_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module blk_mem_gen_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/vladimir/newdisk2/VivadoProjects/fpga_task1/fpga_task1.srcs/sources_1/imports/new/Analyze.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Analyze
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/vladimir/newdisk2/VivadoProjects/fpga_task1/fpga_task1.srcs/sources_1/imports/new/Calc.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Calc
+WARNING: [VRFC 10-9336] redeclaration of ANSI port 'read_addr' is not allowed [/home/vladimir/newdisk2/VivadoProjects/fpga_task1/fpga_task1.srcs/sources_1/imports/new/Calc.v:40]
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/vladimir/newdisk2/VivadoProjects/fpga_task1/fpga_task1.srcs/sources_1/imports/new/Generator.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Generator
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/vladimir/newdisk2/VivadoProjects/fpga_task1/fpga_task1.srcs/sources_1/imports/new/Top_model.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Top_model
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/vladimir/newdisk2/VivadoProjects/fpga_task1/fpga_task1.srcs/sim_1/imports/new/generator_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module generator_tb

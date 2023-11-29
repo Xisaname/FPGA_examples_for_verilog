@@ -1,0 +1,12 @@
+0.7
+2020.2
+Feb 21 2023
+20:06:57
+/home/vladimir/newdisk2/VivadoProjects/fpga_task1/fpga_task1.gen/sources_1/ip/blk_mem_gen_0/sim/blk_mem_gen_0.v,1701088851,verilog,,/home/vladimir/newdisk2/VivadoProjects/fpga_task1/fpga_task1.srcs/sources_1/imports/new/Analyze.v,,blk_mem_gen_0,,,,,,,,
+/home/vladimir/newdisk2/VivadoProjects/fpga_task1/fpga_task1.gen/sources_1/ip/fifo_generator_0/sim/fifo_generator_0.v,1700816439,verilog,,/home/vladimir/newdisk2/VivadoProjects/fpga_task1/fpga_task1.gen/sources_1/ip/blk_mem_gen_0/sim/blk_mem_gen_0.v,,fifo_generator_0,,,,,,,,
+/home/vladimir/newdisk2/VivadoProjects/fpga_task1/fpga_task1.sim/sim_1/behav/xsim/glbl.v,1665704903,verilog,,,,glbl,,,,,,,,
+/home/vladimir/newdisk2/VivadoProjects/fpga_task1/fpga_task1.srcs/sim_1/imports/new/generator_tb.v,1701261138,verilog,,,,generator_tb,,,,,,,,
+/home/vladimir/newdisk2/VivadoProjects/fpga_task1/fpga_task1.srcs/sources_1/imports/new/Analyze.v,1701261443,verilog,,/home/vladimir/newdisk2/VivadoProjects/fpga_task1/fpga_task1.srcs/sources_1/imports/new/Calc.v,,Analyze,,,,,,,,
+/home/vladimir/newdisk2/VivadoProjects/fpga_task1/fpga_task1.srcs/sources_1/imports/new/Calc.v,1701261450,verilog,,/home/vladimir/newdisk2/VivadoProjects/fpga_task1/fpga_task1.srcs/sources_1/imports/new/Generator.v,,Calc,,,,,,,,
+/home/vladimir/newdisk2/VivadoProjects/fpga_task1/fpga_task1.srcs/sources_1/imports/new/Generator.v,1701089064,verilog,,/home/vladimir/newdisk2/VivadoProjects/fpga_task1/fpga_task1.srcs/sources_1/imports/new/Top_model.v,,Generator,,,,,,,,
+/home/vladimir/newdisk2/VivadoProjects/fpga_task1/fpga_task1.srcs/sources_1/imports/new/Top_model.v,1701260916,verilog,,/home/vladimir/newdisk2/VivadoProjects/fpga_task1/fpga_task1.srcs/sim_1/imports/new/generator_tb.v,,Top_model,,,,,,,,

@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2022.2.2 (64-bit)
+# SW Build 3788238 on Tue Feb 21 19:59:23 MST 2023
+# IP Build 3783773 on Tue Feb 21 23:41:56 MST 2023
+# Start of session at: Fri Nov 24 17:00:42 2023
+# Process ID: 10322
+# Current directory: /home/vladimir/newdisk2/VivadoProjects/fpga_task1/fpga_task1.runs/fifo_generator_0_synth_1
+# Command line: vivado -log fifo_generator_0.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source fifo_generator_0.tcl
+# Log file: /home/vladimir/newdisk2/VivadoProjects/fpga_task1/fpga_task1.runs/fifo_generator_0_synth_1/fifo_generator_0.vds
+# Journal file: /home/vladimir/newdisk2/VivadoProjects/fpga_task1/fpga_task1.runs/fifo_generator_0_synth_1/vivado.jou
+# Running On: vladimir, OS: Linux, CPU Frequency: 2500.000 MHz, CPU Physical cores: 8, Host memory: 29134 MB
+#-----------------------------------------------------------
+source fifo_generator_0.tcl -notrace

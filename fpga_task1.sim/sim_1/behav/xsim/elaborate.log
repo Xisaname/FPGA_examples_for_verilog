@@ -1,0 +1,46 @@
+Vivado Simulator v2022.2.2
+Copyright 1986-1999, 2001-2022 Xilinx, Inc. All Rights Reserved.
+Running: /home/vladimir/newdisk/Vivado/2022.2/bin/unwrapped/lnx64.o/xelab --incr --debug typical --relax --mt 8 -L xil_defaultlib -L fifo_generator_v13_2_7 -L blk_mem_gen_v8_4_5 -L unisims_ver -L unimacro_ver -L secureip -L xpm --snapshot generator_tb_behav xil_defaultlib.generator_tb xil_defaultlib.glbl -log elaborate.log 
+Using 8 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling package ieee.std_logic_arith
+Compiling package ieee.std_logic_unsigned
+Compiling package synopsys.attributes
+Compiling package ieee.std_logic_misc
+Compiling package fifo_generator_v13_2_7.fifo_generator_v13_2_7_pkg
+Compiling package xpm.vcomponents
+Compiling package ieee.numeric_std
+Compiling package unisim.vcomponents
+Compiling package ieee.vital_timing
+Compiling package ieee.vital_primitives
+Compiling package unisim.vpkg
+Compiling module xil_defaultlib.Calc
+Compiling module blk_mem_gen_v8_4_5.blk_mem_gen_v8_4_5_output_stage(...
+Compiling module blk_mem_gen_v8_4_5.blk_mem_gen_v8_4_5_softecc_outpu...
+Compiling module blk_mem_gen_v8_4_5.blk_mem_gen_v8_4_5_mem_module(C_...
+Compiling module blk_mem_gen_v8_4_5.blk_mem_gen_v8_4_5(C_FAMILY="zyn...
+Compiling module xil_defaultlib.blk_mem_gen_0
+Compiling module xil_defaultlib.Analyze
+Compiling architecture fifo18e2_v of entity unisim.FIFO18E2 [\FIFO18E2(clock_domains="COMMON"...]
+Compiling architecture xilinx of entity fifo_generator_v13_2_7.builtin_prim [\builtin_prim(c_din_width=8,c_do...]
+Compiling architecture xilinx of entity fifo_generator_v13_2_7.builtin_extdepth [\builtin_extdepth(c_family="8SER...]
+Compiling architecture xilinx of entity fifo_generator_v13_2_7.builtin_top [\builtin_top(c_family="8SERIES",...]
+Compiling architecture xilinx of entity fifo_generator_v13_2_7.input_blk [\input_blk(c_rd_pntr_width=9,c_w...]
+Compiling architecture xilinx of entity fifo_generator_v13_2_7.output_blk [\output_blk(c_has_overflow=1,c_h...]
+Compiling architecture xilinx of entity fifo_generator_v13_2_7.fifo_generator_v13_2_7_builtin [\fifo_generator_v13_2_7_builtin(...]
+Compiling architecture xilinx of entity fifo_generator_v13_2_7.fifo_generator_top [\fifo_generator_top(c_family="vi...]
+Compiling architecture xilinx of entity fifo_generator_v13_2_7.fifo_generator_v13_2_7_synth [\fifo_generator_v13_2_7_synth(c_...]
+Compiling module xil_defaultlib.fifo_generator_0
+Compiling module xil_defaultlib.Generator
+Compiling module xil_defaultlib.Top_model
+Compiling module xil_defaultlib.generator_tb
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot generator_tb_behav

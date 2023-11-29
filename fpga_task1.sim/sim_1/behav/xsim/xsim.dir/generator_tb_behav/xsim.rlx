@@ -1,0 +1,12 @@
+
+{ 
+    crc :  2426396960396948390  , 
+    ccp_crc :  0  , 
+    cmdline : " --incr --debug typical --relax --mt 8 -L xil_defaultlib -L fifo_generator_v13_2_7 -L blk_mem_gen_v8_4_5 -L unisims_ver -L unimacro_ver -L secureip -L xpm --snapshot generator_tb_behav xil_defaultlib.generator_tb xil_defaultlib.glbl" , 
+    buildDate : "Feb 21 2023" , 
+    buildTime : "20:06:57" , 
+    linkCmd : "/usr/bin/gcc -Wa,-W  -O -fPIC  -m64  -Wl,--no-as-needed  -Wl,--unresolved-symbols=ignore-all  -o \"xsim.dir/generator_tb_behav/xsimk\"   \"xsim.dir/generator_tb_behav/obj/xsim_0.lnx64.o\" \"xsim.dir/generator_tb_behav/obj/xsim_1.lnx64.o\" -L\"/home/vladimir/newdisk/Vivado/2022.2/lib/lnx64.o\" -lrdi_simulator_kernel   -lrdi_simbridge_kernel" , 
+    aggregate_nets : 
+    [ 
+    ] 
+} 
